@@ -34,6 +34,8 @@ futboldb.sql
 
 Muchas gracias por descargar el script de Torneo de Fútbol libre y gratuito, espero que pueda colaborar con este proyecto.
 
+Me comprometo a realizar mejoras constantes y subirlas para que este proyecto siga creciendo. 
+
 Espero que se tome unos minutos para darme su Feedback! ;)
 
 
