@@ -65,7 +65,7 @@ function menuHeader()
             <li><a href='resultados.php'>Resultados</a></li>
             <li><a href='posiciones.php'>Posiciones</a></li>
             <!-- <li><a href='reglamento.php'>Reglamento</a></li> -->
-            <li><a href='descargar.php'>Descargar</a></li>
+            <!-- <li><a href='descargar.php'>Descargar</a></li> -->
     	    </ul>
     	    </b>
 		   </nav></div>";
