@@ -1,4 +1,4 @@
-torneodefutbol v1.0
+Torneo de Fútbol v1.0
 ===================
 
 Base de datos soportada:
