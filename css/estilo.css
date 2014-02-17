@@ -1,0 +1,35 @@
+@charset "utf-8";
+body {background:#F1F1F1;width:99%;}
+#header {border-top:4px solid #0F8C18;width:100%;}
+#section {width:90%;}
+#footer {border-top:4px solid #0F8C18;width:100%;text-align:center;}
+/* menu */
+nav {display:block;margin:0 auto 20px;border:1px solid #222;position:relative;background-color:#0F8C18;font:12px Tahoma,Sans-serif;}
+nav ul {padding:0;margin:0;}
+nav li {position:relative;float:left;list-style-type:none;}
+nav ul:after {content:".";display:block;height:0;clear:both;visibility:hidden;}
+nav li a {display:block;padding:10px 20px;color:#EDF2EE;text-decoration:none;font-weight:bold;}
+nav li a:focus {outline:none;color:#FFFFFF;}
+nav li a:hover {background-color:#555;color:#FFFFFF;}
+nav ul ul {display:none;width:100%;position:absolute;left:0;background:#6a6a6a;}
+nav ul ul li {float:none;}
+/* formulario */
+form {border:solid 2px #708090;margin:0 auto;width:440px;padding:14px;}
+form h1 {font-size:24px;font-weight:bold;margin-bottom:10px;text-align:center;}
+form h3 {text-align:center;}
+form label {display:block;font-weight:bold;text-align:right;width:140px;float:left;}
+form input {float:center;font-size:12px;padding:4px 2px;border:solid 1px #708090;width:200px;}
+form select {float:center;font-size:12px;padding:4px 2px;border:solid 1px #708090;width:180px;margin:0px 0px 20px 0px;}
+form button {margin:25px 25px 25px 140px;width:160px;height:31px;background:#0F8C18;text-align:center;color:#FFFFFF;font-size:14px;font-weight:bold;}
+/* tablas */
+#listado{width:950px;overflow:hidden;clear:both;margin:0 auto;}
+table{width: 100%;font-size:12px;font-family:Arial, Helvetica, sans-serif;background:#ECF5FF;}
+table th {background: #3E3F40;color: #fff;height:40px;font-weight: bold;padding: 2px 12px;text-align: center;line-height: 1.2;font-size:13px;}
+table td {padding: 6px 6px 0 0;border-bottom: 1px solid #CCCCCC;vertical-align:middle;padding: 6px 11px;}
+table td * {padding: 6px 12px;vertical-align:middle;}
+table tr.over td, tr:hover td {background: #E1EFFF;}
+table input {float:center;font-size:12px;padding:4px 2px;border:solid 1px #708090;width:25px;}
+/* contenedores */
+.espacio{width:100%;height:50px;text-align:center;color:#708090;font-weight:bold;}
+/* mensajes */
+.msg{text-align:center;color:red;}

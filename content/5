@@ -1,0 +1,73 @@
+<div class='espacio'>ZONA A</div><div id='listado'><table class='tablas' id='tabla'><thead>
+				<h3>Fecha Nro. 3</h3>
+				<tr><th>Partido</th><th width='240px'>Local</th><th></th><th align='center'>12/10/2012</th><th></th><th width='240px'>Visitante</th><th align='center'>Hora</th></tr></thead><tr><td align='center'>1</td><td width='200px'>SUR "A"</td><td  width='30px' align='center'>2</td><td align='center'> - </td><td width='30px' align='center'>0</td><td> FISCADOS</td>
+				<td align='center'>23:00</td><tr><td align='center'>2</td><td width='200px'>PALITOS</td><td  width='30px' align='center'>1</td><td align='center'> - </td><td width='30px' align='center'>5</td><td> LOS PRESCRIPTOS</td>
+				<td align='center'>23:30</td><tr><td align='center'>3</td><td width='200px'>BARRILETES</td><td  width='30px' align='center'>5</td><td align='center'> - </td><td width='30px' align='center'>3</td><td> RUSTICOS</td>
+				<td align='center'>23:30</td><tr><td align='center'>4</td><td width='200px'>LEONES</td><td  width='30px' align='center'>5</td><td align='center'> - </td><td width='30px' align='center'>7</td><td> DAMAJUANAS</td>
+				<td align='center'>23:30</td><div id='listado'><table class='tablas' id='tabla'><thead>
+				<h3>Fecha Nro. 2</h3>
+				<tr><th>Partido</th><th width='240px'>Local</th><th></th><th align='center'>05/10/2012</th><th></th><th width='240px'>Visitante</th><th align='center'>Hora</th></tr></thead><tr><td align='center'>1</td><td width='200px'>SUR "A"</td><td  width='30px' align='center'>6</td><td align='center'> - </td><td width='30px' align='center'>4</td><td> LOS PRESCRIPTOS</td>
+				<td align='center'>20:30</td><tr><td align='center'>2</td><td width='200px'>FISCADOS</td><td  width='30px' align='center'>0</td><td align='center'> - </td><td width='30px' align='center'>2</td><td> RUSTICOS</td>
+				<td align='center'>21:30</td><tr><td align='center'>3</td><td width='200px'>PALITOS</td><td  width='30px' align='center'>2</td><td align='center'> - </td><td width='30px' align='center'>18</td><td> DAMAJUANAS</td>
+				<td align='center'>21:30</td><tr><td align='center'>4</td><td width='200px'>BARRILETES</td><td  width='30px' align='center'>3</td><td align='center'> - </td><td width='30px' align='center'>0</td><td> LEONES</td>
+				<td align='center'>21:30</td><div id='listado'><table class='tablas' id='tabla'><thead>
+				<h3>Fecha Nro. 1</h3>
+				<tr><th>Partido</th><th width='240px'>Local</th><th></th><th align='center'>28/09/2012</th><th></th><th width='240px'>Visitante</th><th align='center'>Hora</th></tr></thead><tr><td align='center'>1</td><td width='200px'>SUR "A"</td><td  width='30px' align='center'>4</td><td align='center'> - </td><td width='30px' align='center'>3</td><td> RUSTICOS</td>
+				<td align='center'>19:00</td><tr><td align='center'>2</td><td width='200px'>LOS PRESCRIPTOS</td><td  width='30px' align='center'>2</td><td align='center'> - </td><td width='30px' align='center'>2</td><td> DAMAJUANAS</td>
+				<td align='center'>19:00</td><tr><td align='center'>3</td><td width='200px'>FISCADOS</td><td  width='30px' align='center'>0</td><td align='center'> - </td><td width='30px' align='center'>2</td><td> LEONES</td>
+				<td align='center'>19:00</td><tr><td align='center'>4</td><td width='200px'>PALITOS</td><td  width='30px' align='center'>3</td><td align='center'> - </td><td width='30px' align='center'>15</td><td> BARRILETES</td>
+				<td align='center'>21:30</td></table></div><div class='espacio'></div><div class='espacio'>ZONA B</div><div id='listado'><table class='tablas' id='tabla'><thead>
+				<h3>Fecha Nro. 3</h3>
+				<tr><th>Partido</th><th width='240px'>Local</th><th></th><th align='center'>19/10/2012</th><th></th><th width='240px'>Visitante</th><th align='center'>Hora</th></tr></thead><tr><td align='center'>1</td><td width='200px'>SUR "B"</td><td  width='30px' align='center'>4</td><td align='center'> - </td><td width='30px' align='center'>3</td><td> AG. 56</td>
+				<td align='center'>20:30</td><tr><td align='center'>2</td><td width='200px'>TODOS PARA UNO</td><td  width='30px' align='center'>9</td><td align='center'> - </td><td width='30px' align='center'>4</td><td> DON RAMON</td>
+				<td align='center'>21:30</td><tr><td align='center'>3</td><td width='200px'>AG. 46</td><td  width='30px' align='center'>1</td><td align='center'> - </td><td width='30px' align='center'>5</td><td> EXPORTADORES</td>
+				<td align='center'>21:30</td><tr><td align='center'>4</td><td width='200px'>MONO "B"</td><td  width='30px' align='center'>0</td><td align='center'> - </td><td width='30px' align='center'>11</td><td> ELEVEN</td>
+				<td align='center'>21:30</td><div id='listado'><table class='tablas' id='tabla'><thead>
+				<h3>Fecha Nro. 2</h3>
+				<tr><th>Partido</th><th width='240px'>Local</th><th></th><th align='center'>05/10/2012</th><th></th><th width='240px'>Visitante</th><th align='center'>Hora</th></tr></thead><tr><td align='center'>1</td><td width='200px'>SUR "B"</td><td  width='30px' align='center'>6</td><td align='center'> - </td><td width='30px' align='center'>4</td><td> DON RAMON</td>
+				<td align='center'>22:30</td><tr><td align='center'>2</td><td width='200px'>AG. 56</td><td  width='30px' align='center'>3</td><td align='center'> - </td><td width='30px' align='center'>8</td><td> EXPORTADORES</td>
+				<td align='center'>22:30</td><tr><td align='center'>3</td><td width='200px'>TODOS PARA UNO</td><td  width='30px' align='center'>4</td><td align='center'> - </td><td width='30px' align='center'>12</td><td> ELEVEN</td>
+				<td align='center'>22:30</td><tr><td align='center'>4</td><td width='200px'>AG. 46</td><td  width='30px' align='center'>2</td><td align='center'> - </td><td width='30px' align='center'>0</td><td> MONO "B"</td>
+				<td align='center'>23:00</td><div id='listado'><table class='tablas' id='tabla'><thead>
+				<h3>Fecha Nro. 1</h3>
+				<tr><th>Partido</th><th width='240px'>Local</th><th></th><th align='center'>28/09/2012</th><th></th><th width='240px'>Visitante</th><th align='center'>Hora</th></tr></thead><tr><td align='center'>1</td><td width='200px'>SUR "B"</td><td  width='30px' align='center'>8</td><td align='center'> - </td><td width='30px' align='center'>8</td><td> EXPORTADORES</td>
+				<td align='center'>21:30</td><tr><td align='center'>2</td><td width='200px'>DON RAMON</td><td  width='30px' align='center'>0</td><td align='center'> - </td><td width='30px' align='center'>2</td><td> ELEVEN</td>
+				<td align='center'>21:30</td><tr><td align='center'>3</td><td width='200px'>AG. 56</td><td  width='30px' align='center'>2</td><td align='center'> - </td><td width='30px' align='center'>0</td><td> MONO "B"</td>
+				<td align='center'>22:30</td><tr><td align='center'>4</td><td width='200px'>TODOS PARA UNO</td><td  width='30px' align='center'>11</td><td align='center'> - </td><td width='30px' align='center'>3</td><td> AG. 46</td>
+				<td align='center'>22:30</td></table></div><div class='espacio'></div><div class='espacio'>ZONA C</div><div id='listado'><table class='tablas' id='tabla'><thead>
+				<h3>Fecha Nro. 3</h3>
+				<tr><th>Partido</th><th width='240px'>Local</th><th></th><th align='center'>19/10/2012</th><th></th><th width='240px'>Visitante</th><th align='center'>Hora</th></tr></thead><tr><td align='center'>1</td><td width='200px'>SUR "C"</td><td  width='30px' align='center'>3</td><td align='center'> - </td><td width='30px' align='center'>5</td><td> LUMBRIS</td>
+				<td align='center'>22:30</td><tr><td align='center'>2</td><td width='200px'>PELLEGRINI</td><td  width='30px' align='center'>5</td><td align='center'> - </td><td width='30px' align='center'>5</td><td> ACTITUD CABALLASCA</td>
+				<td align='center'>22:30</td><tr><td align='center'>3</td><td width='200px'>NUNCA MENOS</td><td  width='30px' align='center'>3</td><td align='center'> - </td><td width='30px' align='center'>2</td><td> NO VALE CHUMBAR</td>
+				<td align='center'>22:30</td><tr><td align='center'>4</td><td width='200px'>LOS RASTRILLOS</td><td  width='30px' align='center'>7</td><td align='center'> - </td><td width='30px' align='center'>1</td><td> SIPES PARA TODOS</td>
+				<td align='center'>23:00</td><div id='listado'><table class='tablas' id='tabla'><thead>
+				<h3>Fecha Nro. 2</h3>
+				<tr><th>Partido</th><th width='240px'>Local</th><th></th><th align='center'>19/10/2012</th><th></th><th width='240px'>Visitante</th><th align='center'>Hora</th></tr></thead><tr><td align='center'>1</td><td width='200px'>SUR "C"</td><td  width='30px' align='center'>3</td><td align='center'> - </td><td width='30px' align='center'>3</td><td> ACTITUD CABALLASCA</td>
+				<td align='center'>21:30</td><tr><td align='center'>2</td><td width='200px'>LUMBRIS</td><td  width='30px' align='center'>5</td><td align='center'> - </td><td width='30px' align='center'>3</td><td> NO VALE CHUMBAR</td>
+				<td align='center'>21:30</td><tr><td align='center'>3</td><td width='200px'>PELLEGRINI</td><td  width='30px' align='center'>4</td><td align='center'> - </td><td width='30px' align='center'>3</td><td> SIPES PARA TODOS</td>
+				<td align='center'>20:30</td><tr><td align='center'>4</td><td width='200px'>NUNCA MENOS</td><td  width='30px' align='center'>2</td><td align='center'> - </td><td width='30px' align='center'>0</td><td> LOS RASTRILLOS</td>
+				<td align='center'>21:30</td><div id='listado'><table class='tablas' id='tabla'><thead>
+				<h3>Fecha Nro. 1</h3>
+				<tr><th>Partido</th><th width='240px'>Local</th><th></th><th align='center'>28/09/2012</th><th></th><th width='240px'>Visitante</th><th align='center'>Hora</th></tr></thead><tr><td align='center'>1</td><td width='200px'>SUR "C"</td><td  width='30px' align='center'>5</td><td align='center'> - </td><td width='30px' align='center'>8</td><td> NO VALE CHUMBAR</td>
+				<td align='center'>22:30</td><tr><td align='center'>2</td><td width='200px'>ACTITUD CABALLASCA</td><td  width='30px' align='center'>4</td><td align='center'> - </td><td width='30px' align='center'>2</td><td> SIPES PARA TODOS</td>
+				<td align='center'>22:30</td><tr><td align='center'>3</td><td width='200px'>LUMBRIS</td><td  width='30px' align='center'>3</td><td align='center'> - </td><td width='30px' align='center'>12</td><td> LOS RASTRILLOS</td>
+				<td align='center'>23:00</td><tr><td align='center'>4</td><td width='200px'>PELLEGRINI</td><td  width='30px' align='center'>0</td><td align='center'> - </td><td width='30px' align='center'>2</td><td> NUNCA MENOS</td>
+				<td align='center'>23:30</td></table></div><div class='espacio'></div><div class='espacio'>ZONA D</div><div id='listado'><table class='tablas' id='tabla'><thead>
+				<h3>Fecha Nro. 3</h3>
+				<tr><th>Partido</th><th width='240px'>Local</th><th></th><th align='center'>19/10/2012</th><th></th><th width='240px'>Visitante</th><th align='center'>Hora</th></tr></thead><tr><td align='center'>1</td><td width='200px'>ESTA</td><td  width='30px' align='center'>2</td><td align='center'> - </td><td width='30px' align='center'>10</td><td> NORTE</td>
+				<td align='center'>23:00</td><tr><td align='center'>2</td><td width='200px'>AG 43</td><td  width='30px' align='center'>3</td><td align='center'> - </td><td width='30px' align='center'>3</td><td> ZAP0</td>
+				<td align='center'>23:30</td><tr><td align='center'>3</td><td width='200px'>TALLERES</td><td  width='30px' align='center'>6</td><td align='center'> - </td><td width='30px' align='center'>1</td><td> CIT</td>
+				<td align='center'>23:30</td><tr><td align='center'>4</td><td width='200px'>LOS TERCE</td><td  width='30px' align='center'>10</td><td align='center'> - </td><td width='30px' align='center'>2</td><td> PANZAS NEGRAS</td>
+				<td align='center'>23:30</td><div id='listado'><table class='tablas' id='tabla'><thead>
+				<h3>Fecha Nro. 2</h3>
+				<tr><th>Partido</th><th width='240px'>Local</th><th></th><th align='center'>12/10/2012</th><th></th><th width='240px'>Visitante</th><th align='center'>Hora</th></tr></thead><tr><td align='center'>1</td><td width='200px'>ESTA</td><td  width='30px' align='center'>0</td><td align='center'> - </td><td width='30px' align='center'>11</td><td> ZAP0</td>
+				<td align='center'>22:30</td><tr><td align='center'>2</td><td width='200px'>NORTE</td><td  width='30px' align='center'>4</td><td align='center'> - </td><td width='30px' align='center'>4</td><td> CIT</td>
+				<td align='center'>23:00</td><tr><td align='center'>3</td><td width='200px'>AG 43</td><td  width='30px' align='center'>6</td><td align='center'> - </td><td width='30px' align='center'>1</td><td> PANZAS NEGRAS</td>
+				<td align='center'>22:30</td><tr><td align='center'>4</td><td width='200px'>TALLERES</td><td  width='30px' align='center'>11</td><td align='center'> - </td><td width='30px' align='center'>3</td><td> LOS TERCE</td>
+				<td align='center'>22:30</td><div id='listado'><table class='tablas' id='tabla'><thead>
+				<h3>Fecha Nro. 1</h3>
+				<tr><th>Partido</th><th width='240px'>Local</th><th></th><th align='center'>05/10/2012</th><th></th><th width='240px'>Visitante</th><th align='center'>Hora</th></tr></thead><tr><td align='center'>1</td><td width='200px'>ESTA</td><td  width='30px' align='center'>0</td><td align='center'> - </td><td width='30px' align='center'>11</td><td> CIT</td>
+				<td align='center'>20:30</td><tr><td align='center'>2</td><td width='200px'>ZAP0</td><td  width='30px' align='center'>5</td><td align='center'> - </td><td width='30px' align='center'>1</td><td> PANZAS NEGRAS</td>
+				<td align='center'>19:30</td><tr><td align='center'>3</td><td width='200px'>NORTE</td><td  width='30px' align='center'>6</td><td align='center'> - </td><td width='30px' align='center'>3</td><td> LOS TERCE</td>
+				<td align='center'>19:30</td><tr><td align='center'>4</td><td width='200px'>AG 43</td><td  width='30px' align='center'>8</td><td align='center'> - </td><td width='30px' align='center'>2</td><td> TALLERES</td>
+				<td align='center'>19:30</td></table></div><div class='espacio'></div>
