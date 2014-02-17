@@ -13,7 +13,7 @@ Ingreso al panel de control para la carga de datos
 
 Archivo de Configuración:
 
-#Modificarlo según su necesidad
+Modificarlo según su necesidad
 
 inc/config.php
 
